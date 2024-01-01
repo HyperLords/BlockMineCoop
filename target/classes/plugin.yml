@@ -1,0 +1,26 @@
+name: BlockMineCoop
+version: 1.0
+main: com.me.oyuntarayici.BlockMineCoopClass
+authors:
+  - ByEZberCime
+prefix: BlockMineCoop
+website: https://github.com/HyperLords
+
+commands:
+  minecoop:
+    description: Mine coop menu open
+
+permissions:
+  mine.minecoop.command:
+    default: true
+    description: "Allow to command"
+  mine.brokenblock.permission:
+    default: true
+    description: "Break block and hot cool"
+  mine.coopblockinventory.permission:
+    default: true
+    description: "Inventory all items to hot cool"
+  minecoop.commands.completer.inventory:
+    default: true
+  minecoop.commands.completer.mine:
+    default: true

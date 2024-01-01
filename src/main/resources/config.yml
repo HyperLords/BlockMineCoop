@@ -1,0 +1,6 @@
+message:
+  help-message: "&cUsage: &e/minecoop &7inventory&c/&7mine"
+  success-hot-all-inventory-item: "&eYou have successfully heated all items in your inventory"
+  success-activated-mineblock: "&eSuccess mineblock &a&lACTIVATED"
+  success-disabled-mineblock: "&eSuccess mineblock &4&lDISABLED"
+  not-permission-message: "&cYou not use to plugin"

@@ -1,0 +1,16 @@
+blocks:
+  iron_ore:
+    detected-material: IRON_ORE
+    translate: IRON_INGOT
+  gold_ore:
+    detected-material: GOLD_ORE
+    translate: GOLD_INGOT
+  redstone_ore:
+    detected-material: REDSTONE_ORE
+    translate: REDSTONE
+  diamond_ore:
+    detected-material: DIAMOND_ORE
+    translate: DIAMOND
+  coal_ore:
+    detected-material: COAL_ORE
+    translate: COAL
